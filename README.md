@@ -36,6 +36,8 @@ The data was first normalized in Excel before being transformed in Power Query.
 ## Dashboard Insights
 
 ![Dashboard 1](https://github.com/DamilolaMakay/Mysellar-Sales-Analysis/blob/main/General%20Analysis%201.png)
+
+![Dashboard 2](https://github.com/DamilolaMakay/Mysellar-Sales-Analysis/blob/main/General%20Analysis.png)
 The dashboard showcases yearly profits by sales channel, highlighting Online and Offline performance. Europe emerged as the region with the highest units sold, while North America showed the lowest.
 
 Average shipping times were shortest in Europe and North America, while Australia & Oceania and Asia had the longest shipping times.
