@@ -57,3 +57,4 @@ Noteworthy observations: Equatorial Guinea, Comoros, and Somalia had high sales 
 - Profit Maximization Strategy: Focusing on high-profit regions like Sub-Saharan Africa and Europe, while optimizing costs in low-profit regions, could improve overall profitability.
 
 ## Download
+<a href = "https://github.com/DamilolaMakay/Mysellar-Sales-Analysis/raw/refs/heads/main/Makanjuola%20Damilola%20MYSELLAR%20SALES%20DATA.pbix"> Download the Power BI file </a>
