@@ -28,6 +28,7 @@ The data analyzed covers various regions, countries, and product categories, wit
 - Correlation Analysis
 
 ## Data Source
+<a href = "https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)"> Nominal GDP for Sub-Saharan Africa </a>
 
 ## Data Model
 The data was first normalized in Excel before being transformed in Power Query.
