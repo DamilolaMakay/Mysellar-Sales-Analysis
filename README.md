@@ -40,10 +40,7 @@ The dashboard showcases yearly profits by sales channel, highlighting Online and
 Average shipping times were shortest in Europe and North America, while Australia & Oceania and Asia had the longest shipping times.
 
 ### Correlation Between GDP and Total Sales in Sub-Saharan Africa
-
-A slight downward trend was observed between GDP and total sales, suggesting a weak correlation.
-
-Noteworthy observations: Equatorial Guinea, Comoros, and Somalia had high sales but lower GDP, while Algeria and South Africa displayed a balanced relationship between sales and GDP.
+![GDP and Total Sales Analysis for Sub-Saharan Africa](https://github.com/DamilolaMakay/Mysellar-Sales-Analysis/blob/main/GDP%20%26%20Total%20Sales%20Analysis.png)
 
 ### Recommandations
 
