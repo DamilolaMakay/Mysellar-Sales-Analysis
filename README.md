@@ -29,18 +29,8 @@ The data analyzed covers various regions, countries, and product categories, wit
 
 ## Data Source
 
-Sales Data: Mysellar’s historical sales data across various categories, regions, and sales channels.
-
-GDP Data: External economic data for Sub-Saharan African countries, integrated into the analysis to explore correlations with sales performance.
-
 ## Data Model
-
-Fact Table: The sales data containing fields such as Order Date, Country, Category, Units Sold, Total Revenue, Total Cost, and Sales Channel.
-
-Date Table: Generated using Power BI’s built-in Date Hierarchy, facilitating trend analysis over time.
-
-Lookup Table: A separate GDP data table, which was merged with the sales data by country to enable correlation analysis.
-
+The data was first normalized in Excel before being transformed in Power Query.
 ## Dashboard Insights
 
 The dashboard showcases yearly profits by sales channel, highlighting Online and Offline performance. Europe emerged as the region with the highest units sold, while North America showed the lowest.
