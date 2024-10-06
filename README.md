@@ -20,17 +20,19 @@ The data analyzed covers various regions, countries, and product categories, wit
 -GitHub: For version control and sharing the project.
 
 ## Techniques and Skills
-
-- Data Transformation: Using Power Query to merge sales data from different sources and ensure consistency.
-- DAX Calculations: Creating custom measures for metrics such as profit margins, average shipping time, and correlation analysis.
-- Time Intelligence: Leveraging Power BI’s Date Hierarchy to analyze trends across various time frames, including yearly and monthly trends.
-- Visual Analysis: Scatter plots, matrix visuals, and bar charts to present key findings on sales performance and region-specific insights.
-- Correlation Analysis: Investigating the relationship between sales and GDP for Sub-Saharan African countries to provide strategic insights on potential markets.
+- Data Normalization
+- Data Transformation with Power Query
+- Data Modelling
+- DAX Calculations
+- Data Visualization
+- Correlation Analysis
 
 ## Data Source
 
 ## Data Model
 The data was first normalized in Excel before being transformed in Power Query.
+
+![Data_Model](https://github.com/DamilolaMakay/Mysellar-Sales-Analysis/blob/main/Mysellar%20Data%20Model.png)
 ## Dashboard Insights
 
 The dashboard showcases yearly profits by sales channel, highlighting Online and Offline performance. Europe emerged as the region with the highest units sold, while North America showed the lowest.
