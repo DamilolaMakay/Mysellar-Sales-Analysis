@@ -42,6 +42,9 @@ Average shipping times were shortest in Europe and North America, while Australi
 ### Correlation Between GDP and Total Sales in Sub-Saharan Africa
 ![GDP and Total Sales Analysis for Sub-Saharan Africa](https://github.com/DamilolaMakay/Mysellar-Sales-Analysis/blob/main/GDP%20%26%20Total%20Sales%20Analysis.png)
 
+A slight downward trend was observed between GDP and total sales, suggesting a weak correlation.
+Noteworthy observations: Equatorial Guinea, Comoros, and Somalia had high sales but lower GDP, while Algeria and South Africa displayed a balanced relationship between sales and GDP.
+
 ### Recommandations
 
 - Target Market Expansion: Regions with high GDP but lower sales, such as Nigeria and Egypt, present opportunities for Mysellar to invest in improving marketing efforts or expanding product lines.
