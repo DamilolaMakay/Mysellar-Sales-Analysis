@@ -30,22 +30,27 @@ The data analyzed covers various regions, countries, and product categories, wit
 ## Data Source
 
 Sales Data: Mysellar’s historical sales data across various categories, regions, and sales channels.
+
 GDP Data: External economic data for Sub-Saharan African countries, integrated into the analysis to explore correlations with sales performance.
 
 ## Data Model
 
 Fact Table: The sales data containing fields such as Order Date, Country, Category, Units Sold, Total Revenue, Total Cost, and Sales Channel.
+
 Date Table: Generated using Power BI’s built-in Date Hierarchy, facilitating trend analysis over time.
+
 Lookup Table: A separate GDP data table, which was merged with the sales data by country to enable correlation analysis.
 
 ## Dashboard Insights
 
 The dashboard showcases yearly profits by sales channel, highlighting Online and Offline performance. Europe emerged as the region with the highest units sold, while North America showed the lowest.
+
 Average shipping times were shortest in Europe and North America, while Australia & Oceania and Asia had the longest shipping times.
 
 ## Correlation Between GDP and Total Sales in Sub-Saharan Africa
 
 A slight downward trend was observed between GDP and total sales, suggesting a weak correlation.
+
 Noteworthy observations: Equatorial Guinea, Comoros, and Somalia had high sales but lower GDP, while Algeria and South Africa displayed a balanced relationship between sales and GDP.
 
 ## Recommandations
