@@ -39,13 +39,13 @@ The dashboard showcases yearly profits by sales channel, highlighting Online and
 
 Average shipping times were shortest in Europe and North America, while Australia & Oceania and Asia had the longest shipping times.
 
-## Correlation Between GDP and Total Sales in Sub-Saharan Africa
+### Correlation Between GDP and Total Sales in Sub-Saharan Africa
 
 A slight downward trend was observed between GDP and total sales, suggesting a weak correlation.
 
 Noteworthy observations: Equatorial Guinea, Comoros, and Somalia had high sales but lower GDP, while Algeria and South Africa displayed a balanced relationship between sales and GDP.
 
-## Recommandations
+### Recommandations
 
 - Target Market Expansion: Regions with high GDP but lower sales, such as Nigeria and Egypt, present opportunities for Mysellar to invest in improving marketing efforts or expanding product lines.
 - Optimize Shipping Logistics: Efforts to reduce shipping times in Australia & Oceania and Asia could improve customer satisfaction and sales volumes in those regions.
